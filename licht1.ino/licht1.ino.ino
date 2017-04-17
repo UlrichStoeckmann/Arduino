@@ -3,12 +3,12 @@ void setup(){
 }
 
 void loop(){
-   pinMode(2, OUTPUT);
-   digitalWrite(2, HIGH);
-   delay(50);
-   pinMode(7, OUTPUT);
-   digitalWrite(7, LOW);
-   delay(100);
+// pinMode(2, OUTPUT);
+//   digitalWrite(2, HIGH);
+//   delay(50);
+//   pinMode(7, OUTPUT);
+//   digitalWrite(7, LOW);
+//   delay(100);
    pinMode(3, OUTPUT);
    digitalWrite(3, HIGH);
    delay(50);
